@@ -1,0 +1,41 @@
+body {
+	background-image: url("assets/fbbg.png");
+	background-color: lightblue;
+}
+
+p {
+	color: white;
+	text-shadow: 2px 2px black;
+	font-family: Comic Sans MS;
+}
+
+h1 {
+	font-family: Impact;
+	color: darkblue;
+	text-shadow: 3px 3px 3px lime;
+}
+
+h2 {
+	font-family: Freckle Face;
+	color: white;
+	text-shadow: 2px 2px 3px blue;
+}
+
+/* WORK ON h2 */
+	
+
+header {
+	background-color: black;
+	padding: 25px;
+	margin: 10px;
+}
+
+div {
+	background-color: gray;
+	border: 6px inset white;
+	outline: 3px dotted black;
+	color: black;
+	padding: 25px;
+	margin: 30px; 
+	max-width: 500px;
+}
