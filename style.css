@@ -9,6 +9,12 @@ p {
 	font-family: Comic Sans MS;
 }
 
+a {
+	text-shadow: 2px 2px black;
+	color: lightblue;
+	font-family: Comic Sans MS;
+}
+
 h1 {
 	font-family: Impact;
 	color: darkblue;
@@ -19,10 +25,7 @@ h2 {
 	font-family: Freckle Face;
 	color: white;
 	text-shadow: 2px 2px 3px blue;
-}
-
-/* WORK ON h2 */
-	
+}	
 
 header {
 	background-color: black;
